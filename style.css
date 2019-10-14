@@ -1,0 +1,22 @@
+h2 {
+	color: blue;
+}
+div {
+	color: red;
+}
+body {
+	background-color: lightblue;
+}
+input  {
+	border-radius: 30px;
+}
+h3	{
+	color: black
+}
+/* Selects any <input> when focused */
+input:focus {
+  color: red;
+}
+input  {
+	border: dashed red 2px;
+}
